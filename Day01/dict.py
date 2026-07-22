@@ -28,5 +28,4 @@ sorted_students = sorted(
     reverse = True
 )
 print(sorted_students)
-print(type(sorted_students))
 
